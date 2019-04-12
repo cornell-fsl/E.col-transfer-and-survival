@@ -1,5 +1,5 @@
 # E. coli transfer and survival
-The code is an implementation of the method described in Cochran 1950. MPN Function to determine the most probable number of bacteria in a given sample given a specific pattern of positives tubes and replicates. This code was initially published as part of the supplemental material of Weller et al. 2017.
+The code is an implementation of the method described in Cochran 1950. MPN Function to determine the most probable number of bacteria in a given sample given a specific pattern of positives tubes and replicates. This code was initially published as part of the supplemental material of Weller et al. 2017. This code was developed by David Kent (dk657@cornell.edu) and Daniel Weller (dlw263@cornell.edu).
 
 Bibliography:
 1. Cochran, William G. "Estimation of bacterial densities by means of the 'most probable number'." Biometrics 6.2 (1950): 105-116.
